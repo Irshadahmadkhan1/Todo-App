@@ -24,7 +24,11 @@ The project utilizes the React library for developing web and native user interf
     2. Open a web browser to http://localhost:3000 (Frontend integration).
     3. And on http://localhost:8309 (backend integration).
 
-As you add and update tasks in the app you can verify the changes in the database through the PostgreSQL console. 
+As you add and update tasks in the app you can verify the changes in the database through the PostgreSQL console.
+
+https://github.com/Irshadahmadkhan1/Task-Managing-App/assets/93083383/d6d13f7d-280c-48e4-9ba0-ab42d8400ad4
+
+ 
 ## Task Properties
 Each task has the following properties:
 
