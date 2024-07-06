@@ -2,6 +2,9 @@
 
 Welcome to the Task Tracker API. It is based on RESTful API using Java, PostgreSQL, spring Boot as backened and Html, CSS, React.js as frontend
 
+![Task List](https://github.com/Irshadahmadkhan1/Task-Managing-App/assets/93083383/799b1c78-9590-4f57-b914-8835eb09fe34)
+![Save Task](https://github.com/Irshadahmadkhan1/Task-Managing-App/assets/93083383/00438d0a-7701-4358-90f3-46d05a488a5b)
+![Update Task](https://github.com/Irshadahmadkhan1/Task-Managing-App/assets/93083383/ff873283-2e7f-46e5-bcbd-76e84d5d4847)
 
 ## Programming Language used
 
@@ -38,7 +41,7 @@ Each task has the following properties:
 4. PUT /tasks/{id}: Update an existing task by its ID.
 5. DELETE /tasks/{id}: Delete a task by its ID
 ## 🔗 Links
-
+https://github.com/Irshadahmadkhan1/Task-Managing-App.git
 ## Features
 
 - Task Tracker will add the  task
